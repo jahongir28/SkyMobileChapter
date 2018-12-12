@@ -1,7 +1,7 @@
-![Image of Text Field](/text-fields.png)
+![Image of Text Field](https://raw.githubusercontent.com/jahongir28/SkyMobileChapter/master/Material%20Components/text-fields.png)
 
 
-##Gradle dependencies
+## Gradle dependencies
 ```
 dependencies {
     implementation 'androidx.appcompat:appcompat:1.0.2'
@@ -10,7 +10,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.0-alpha2'
 }
 ```
-##Styles
+## Styles
 ```
  <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="textInputStyle">@style/AppTheme.OutlineBox</item>
@@ -39,7 +39,7 @@ dependencies {
 </style>
 ```
 
-##XML Layout
+## XML Layout
 ```
 <com.google.android.material.textfield.TextInputLayout
     android:id="@+id/textfield_layout"
