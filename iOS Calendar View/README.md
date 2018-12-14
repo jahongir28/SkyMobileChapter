@@ -1,4 +1,6 @@
-![Image of Text Field](https://raw.githubusercontent.com/jahongir28/SkyMobileChapter/master/Material%20Components/text-fields.png)
+![Image of Dark CalendarView](https://github.com/jahongir28/SkyMobileChapter/blob/master/iOS%20Calendar%20View/Dark.png?raw=true)
+
+![Image of Light CalendarView](https://github.com/jahongir28/SkyMobileChapter/blob/master/iOS%20Calendar%20View/Light.png?raw=true)
 
 ## Style
 ```
